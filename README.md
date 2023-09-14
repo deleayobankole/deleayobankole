@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deleayobankole
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analysis
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Django, NodeJS, C#
+- 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me: askdab@deleayobankole.com
 
 <!---
