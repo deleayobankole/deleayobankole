@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deleayobankole
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Django, NodeJS, C#
-- 💞️ I’m looking to collaborate on Software Projects
+- 👀 I’m exploring AI and its possibilities in Africa's development.
+- 🌱 I’m currently learning ML, NLP, Python, and Azure, while I have a hand in other analytics tools.
+- 💞️ I’m looking to collaborate on machine-learning projects
 - 📫 How to reach me: deleayobankole@gmail.com
 
 <!---
