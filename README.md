@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deleayobankole
-- 👀 I’m exploring AI and its possibilities in Africa's development.
+- 👀 I’m exploring AI and its possibilities in Africa's development, zooming in on finance.
 - 🌱 I’m currently learning ML, NLP, Python, and Azure, while I have a hand in other analytics tools.
-- 💞️ I’m looking to collaborate on machine-learning projects
+- 💞️ I’m looking to collaborate on finance-related machine-learning projects
 - 📫 How to reach me: deleayobankole@gmail.com
 
 <!---
